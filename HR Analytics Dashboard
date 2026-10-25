@@ -1,0 +1,21 @@
+Project Overview
+This project analyzes Human Resources (HR) data using Microsoft Power BI to explore employee demographics, workforce distribution, and attrition trends.
+
+The dashboard provides interactive visualizations to support data-driven HR decisions.
+
+🎯 Project Objectives
+Analyze employee demographics and workforce distribution.
+Monitor employee headcount and attrition rates.
+Identify employee turnover trends.
+Explore workforce patterns across departments.
+Support HR decision-making through data visualization.
+
+🛠️ Tools & Technologies
+Microsoft Power BI
+Power Query
+
+📈 Key Features
+HR key performance indicators (KPIs).
+Employee headcount and attrition analysis.
+Workforce breakdown by department and employee categories.
+Interactive filters and visualizations.
